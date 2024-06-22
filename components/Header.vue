@@ -46,6 +46,9 @@
               <li class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
                 <NuxtLink to="/contact">Contact</NuxtLink>
               </li>
+              <li class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
+                <NuxtLink to="/product/[Apple]">Prodcut</NuxtLink>
+              </li>
             </div>
           </div>
         </div>
